@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in full stack development, machine learning, and how to use these fields to create practical solutions to real-world problems.
+
+[![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advayp)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Advayp/Advayp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
