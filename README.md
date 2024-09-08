@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in full stack development, machine learning, and how to use these fields to create practical solutions to real-world problems.
+I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in full stack development, machine learning, and games.
+
+- 🌱 I’m currently learning more about machine learning and web development.
 
 <p align="center">
   </br>
