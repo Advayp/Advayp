@@ -2,7 +2,7 @@
 
 I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in full stack development, machine learning, and how to use these fields to create practical solutions to real-world problems.
 
-[![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advayp)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Advayp&theme=dark" alt="Advayp" /></p>
 
 
 <!--
