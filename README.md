@@ -2,6 +2,8 @@
 
 I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in full stack development, machine learning, and how to use these fields to create practical solutions to real-world problems.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Advayp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Advayp&theme=dark" alt="Advayp" /></p>
 
 
