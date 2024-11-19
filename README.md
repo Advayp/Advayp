@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in full stack development, machine learning, and games.
+I'm Advay, a freshman at the University of Washington studying Computer Science. I'm interested in backend development, VR/AR, and systems programming.
 
-- 🌱 I’m currently learning more about machine learning and web development.
+- 🌱 I’m currently learning more about AR and backend development.
 
 <p align="center">
   </br>
