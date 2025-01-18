@@ -7,19 +7,12 @@ I'm Advay, a freshman at the University of Washington studying Computer Science.
 <p align="center">
   </br>
   
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Advayp&&theme=tokyonight&&hide_border=true&card_width=495>
+  <a href="https://github.com/Advayp">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Advayp&hide_rank=true&theme=dracula&show_icons=true"> 
   </a>
-   
-  </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Advayp&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
-  
-  </br>
-  </br>
-
+  <a href="https://github.com/Advayp">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advayp&hide=HTML,CSS&hide_progress=true&theme=dracula&show_icons=true">
+  </a>
 </p>
 
 
